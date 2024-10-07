@@ -14,8 +14,6 @@ https://github.com/paridhitalwar/SDP_Assignment_2
 # Implementation Description 
 
 
-For each assignment, please answer the following:
-
 ### Flexibility
 The implementation is designed to be flexible, allowing for easy addition and removal of new object types in the future. This is achieved by:
 - Using interfaces (`Vehicles`) that can be implemented by any type of vehicle class (e.g., `Car`, `Scooter`).
